@@ -1,0 +1,6 @@
+class HelloWorldEE
+{
+public display ()
+{
+}
+}
